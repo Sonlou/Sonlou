@@ -11,6 +11,7 @@ I'm a passionate developer working on projects across AI, web development, and t
 ### 💼 Currently Working On
 
 - **TextSite** — AI-powered website generator that turns text prompts into websites
+- **Downloadit** — Telegram bot for downloading videos from social media
 - **TransitLink Ethiopia** — Public transportation solution
 - **V0 Ibex AI Tutor** — AI-powered tutoring system
 
@@ -53,6 +54,11 @@ I'm a passionate developer working on projects across AI, web development, and t
 AI website generator that turns plain-text prompts into complete websites, with a live preview and HTML download.
 - 🔗 [Repository](https://github.com/Sonlou/ai)
 - **Tech:** React, TypeScript, Vite, Tailwind CSS, DeepSeek API
+
+### **Downloadit**
+Telegram bot for downloading videos from social media platforms quickly and easily.
+- 🔗 [Repository](https://github.com/Sonlou/Downloadit)
+- **Tech:** Python, Telegram Bot, yt-dlp, ffmpeg
 
 ### **TransitLink Ethiopia**
 A public transportation solution for Ethiopia.
