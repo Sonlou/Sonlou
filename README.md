@@ -38,15 +38,7 @@ I'm a passionate developer working on projects across AI, web development, and t
 ### Google Cloud
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-![Sonlou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonlou&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonlou&layout=compact&theme=radical)
-
----
 
 ## 🎯 Featured Projects
 
