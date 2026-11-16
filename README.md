@@ -6,13 +6,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer working on innovative projects that combine AI, web development, and transportation technology. I love building scalable applications and exploring cutting-edge technologies.
+I'm a passionate developer working on projects across AI, web development, and transportation technology. I enjoy building useful applications, exploring new technologies, and creating tools that solve real problems.
 
 ### 💼 Currently Working On
 
-- **Ibex AI** - AI-powered intelligent platform
-- **TransitLink Ethiopia** - Public transportation solution
-- **V0 Ibex AI Tutor** - AI-powered tutoring system
+- **TextSite** — AI-powered website generator that turns text prompts into websites
+- **TransitLink Ethiopia** — Public transportation solution
+- **V0 Ibex AI Tutor** — AI-powered tutoring system
 
 ---
 
@@ -49,29 +49,29 @@ I'm a passionate developer working on innovative projects that combine AI, web d
 
 ## 🎯 Featured Projects
 
-### **Ibex AI**
-AI-powered intelligent platform for building smart applications
-- 🔗 [Repository](https://github.com/Sonlou/Ibex-Ai)
-- **Tech:** TypeScript, React, Node.js
+### **TextSite**
+AI website generator that turns plain-text prompts into complete websites, with a live preview and HTML download.
+- 🔗 [Repository](https://github.com/Sonlou/ai)
+- **Tech:** React, TypeScript, Vite, Tailwind CSS, DeepSeek API
 
 ### **TransitLink Ethiopia**
-Comprehensive public transportation solution for Ethiopia
+A public transportation solution for Ethiopia.
 - 🔗 [Repository](https://github.com/Sonlou/TransitLink-Ethiopia)
 - **Tech:** TypeScript, Next.js, PostgreSQL
 
 ### **V0 Ibex AI Tutor**
-AI-powered tutoring platform for personalized learning
+An AI-powered tutoring platform for personalized learning.
 - 🔗 [Repository](https://github.com/Sonlou/v0-ibex-ai-tutor)
-- **Tech:** V0 Framework, AI Integration
+- **Tech:** TypeScript, AI integration
 
 ---
 
 ## 🌟 Highlights
 
-- ✨ Built multiple full-stack applications
-- 🤖 Experienced with AI/ML integration
-- 🚀 Passionate about scalable architecture
-- 🔄 Continuous learning & improvement
+- ✨ Built full-stack applications
+- 🤖 Interested in AI integration
+- 🚀 Focused on scalable, useful software
+- 🔄 Always learning and improving
 - 🤝 Open to collaboration
 
 ---
@@ -79,7 +79,7 @@ AI-powered tutoring platform for personalized learning
 ## 📫 Get In Touch
 
 - **GitHub:** [@Sonlou](https://github.com/Sonlou)
-- **Open Issues:** Have a question? [Open an issue](https://github.com/Sonlou?tab=repositories)
+- **Questions or ideas?** [Open an issue](https://github.com/Sonlou?tab=repositories)
 
 ---
 
@@ -88,11 +88,11 @@ AI-powered tutoring platform for personalized learning
 - 🎯 Contribute to impactful open-source projects
 - 📚 Share knowledge through documentation
 - 🌍 Build solutions that make a difference
-- 🔧 Master new technologies and frameworks
+- 🔧 Keep learning new technologies
 
 ---
 
-**Thanks for visiting! Feel free to check out my projects and reach out if you'd like to collaborate! 🚀**
+**Thanks for visiting! Feel free to explore my projects and reach out to collaborate. 🚀**
 
 ---
 
